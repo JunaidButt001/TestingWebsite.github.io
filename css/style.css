@@ -1,0 +1,14 @@
+/* CSS */
+
+.container {
+    width: 70%;
+    margin: 10px, auto, 0px, auto;
+}
+
+#panels {
+    text-align: center;
+}
+
+#panels img {
+    margin-bottom: 20px;
+}
